@@ -19,3 +19,7 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/histogrammer](https://hexdocs.pm/histogrammer).
 
+## Usage example
+```elixir
+iex> JPEG.stream("./img/100px-2.jpg")
+```
